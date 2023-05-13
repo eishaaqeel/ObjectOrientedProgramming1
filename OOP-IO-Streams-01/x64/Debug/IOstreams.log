@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (IOstreams.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  OOP-IO-Streams-01.cpp
+  IOstreams.vcxproj -> C:\Users\User\Documents\Semester 2 (Winter 2022)\ObjectOrientedProgramming1(OOP 2200)\ObjectOrientedProgramming1\x64\Debug\OOP-IO-Streams-01.exe
