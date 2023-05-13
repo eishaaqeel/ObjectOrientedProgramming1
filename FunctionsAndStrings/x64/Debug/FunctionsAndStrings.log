@@ -1,0 +1,4 @@
+﻿  FunctionsAndStrings.cpp
+C:\Users\User\Documents\Semester 2 (Winter 2022)\ObjectOrientedProgramming1(OOP 2200)\ObjectOrientedProgramming1\FunctionsAndStrings\FunctionsHeader.h(42,9): warning C4101: 'character': unreferenced local variable
+C:\Users\User\Documents\Semester 2 (Winter 2022)\ObjectOrientedProgramming1(OOP 2200)\ObjectOrientedProgramming1\FunctionsAndStrings\FunctionsAndStrings.cpp(83,31): warning C4101: 'e': unreferenced local variable
+  FunctionsAndStrings.vcxproj -> C:\Users\User\Documents\Semester 2 (Winter 2022)\ObjectOrientedProgramming1(OOP 2200)\ObjectOrientedProgramming1\x64\Debug\FunctionsAndStrings.exe
